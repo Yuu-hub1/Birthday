@@ -95,7 +95,7 @@ export default function ClosingSection({
               onClick={toggleMusic}
               className="mt-3 inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-gradient-to-r from-pink-500 to-purple-500 text-white text-xs font-semibold shadow-xs hover:opacity-90 transition cursor-pointer"
             >
-              {isPlaying ? "⏸ Jeda Lagu" : "▶ Putar Lagu"}
+              {isPlaying ? "Pause" : "Play"}
             </button>
           </div>
         </div>
