@@ -88,7 +88,7 @@ export default function BirthdayLetter({
 
             <p>
               Semoga diumur yang baru ini jadi salah satu chapter paling membahagiakan
-              dalam hidupmu.
+              dalam hidupmu. ohh iya soal dagumu jgn insecure yaa, kmu dah cantikk just the way u r. lagi pula aku suka kmu bkn krna fisiknya. dan aku g perna jadiin kmu 2nd choice
             </p>
           </div>
 
