@@ -101,6 +101,7 @@ export default function HomePage({
         <span className="font-medium text-gray-800"> make a wish </span>
         dulu terus klik lilinnya yaa
       </p>
+      <div className="text-red-700 my-5">Klik Lilinnya! jgn lupa scroll ke bwh</div>
 
       <div className="mt-6 mb-4 flex flex-col items-center">
         <button
